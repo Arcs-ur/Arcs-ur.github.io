@@ -1,31 +1,44 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About me
-
 Education Background
 ======
-SJTU,Bachelor in Cyber Security
-Currently pursuing a Bachelor's degree in Cyber Security at Shanghai Jiao Tong University (SJTU), with an expected graduation date in 2026. Throughout my studies, I have been honing my skills in network security, cryptography, and data protection, preparing for a career in securing digital systems and information infrastructures.
+**Shanghai Jiaotong University, Bachelor in Cyber Security, 2022-2026**
+> Currently pursuing a Bachelor's degree in Cyber Security at Shanghai Jiao Tong University (SJTU), with an expected graduation date in 2026. Throughout my studies, I have been honing my skills in network security, cryptography, and data protection, preparing for a career in securing digital systems and information infrastructures.
 
-Getting started
+
+Interns
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Projects
+======
+[2025.01][Owner][TeleSpeech_Based_S2M_pipeline](https://github.com/Arcs-ur/TeleSpeech_Based_S2M_pipeline)
+
+[2024.12][Collaborator][Public opinion monitoring system](https://github.com/ln-y/nis3356)
+
+[2024.12][Owner][Networking Sniffer](https://github.com/Arcs-ur/networking_sniffer)
+
+
+[2024.11][Owner][Personal_Finance_System](https://github.com/Arcs-ur/PersonalFinanceNIS)
+
+[2024.10][Collaborator][TravelAgenda_LLMAgent](https://github.com/Arcs-ur/TravelAgenda_LLMAgent/tree/master)
+
+[2024.10][Owner][Default Parameters for SPT](https://github.com/Arcs-ur/defaultpara)
+
+
+[2024.7][Collaborator][Linux Netfilter-based Firewall](https://github.com/Minecrafter-Pythoner/NIS3302)
+
+
+Research&Papers
+======
+Having interest in LLM optimization and application development, as well as LLM security.
+
+**CodeGenGuard: A Robust Watermark for Code Generation Models via Context-Enhanced Code Transformations** (Under review, CCS 2025)
 
 Create content & metadata
 ------
