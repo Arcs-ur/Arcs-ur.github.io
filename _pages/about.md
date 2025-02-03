@@ -8,8 +8,8 @@ redirect_from:
 ---
 Education Background
 ======
-**Shanghai Jiaotong University, Bachelor in Cyber Security, 2022-2026**
-> Currently pursuing a Bachelor's degree in Cyber Security at Shanghai Jiao Tong University (SJTU), with an expected graduation date in 2026. Throughout my studies, I have been honing my skills in network security, cryptography, and data protection, preparing for a career in securing digital systems and information infrastructures.
+Shanghai Jiaotong University, Bachelor in Cyber Security, 2022-2026
+<!-- > Currently pursuing a Bachelor's degree in Cyber Security at Shanghai Jiao Tong University (SJTU), with an expected graduation date in 2026. Throughout my studies, I have been honing my skills in network security, cryptography, and data protection, preparing for a career in securing digital systems and information infrastructures. -->
 
 
 Interns
@@ -40,7 +40,7 @@ Having interest in LLM optimization and application development, as well as LLM 
 
 **CodeGenGuard: A Robust Watermark for Code Generation Models via Context-Enhanced Code Transformations** (Under review, CCS 2025)
 
-Create content & metadata
+<!-- Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
@@ -58,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
